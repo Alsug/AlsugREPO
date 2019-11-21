@@ -1,3 +1,5 @@
+#MERCI ANDEMUS
+
 def estDans(L,e):
     for i in range(len(L)):
         if L[i]==e:
